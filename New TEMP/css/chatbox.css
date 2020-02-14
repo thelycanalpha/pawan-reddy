@@ -1,0 +1,44 @@
+.boxx{height: 300px;width: 400px;background-color: #f2f2f2;display: none;}
+.boxxx{height: 40px;width: 400px;background-color: #2873f0;color: white}
+.input{width: 395px;height: 30px;margin-top: 225px}
+#logo {margin-top: 350px;margin-left: 1450px;display: none;}
+
+
+
+.img1{width: 300px;border-width: 3px;border-style: solid;border-color: white;position: relative;top: 20px}
+.img2{width: 300px;border-width: 3px;border-style: solid;border-color: white;position: relative;top: 30px}
+.img3{width: 300px;border-width: 3px;border-style: solid;border-color: white;position: relative;top: 40px}
+.img4{width: 300px;border-width: 3px;border-style: solid;border-color: white;position: relative;top: 50px}
+
+
+.login{background-color: aqua;color: white;border-width: 0px;height: 30px;width: 100px;float: right;}
+
+/*chatbox*/
+.chat{display: none;}
+.hchat{margin-left: 500px;position: relative;bottom:720px;height: 400px;
+	width: 350px;background-color: #f2f2f2;font-family:  Arial, Helvetica Neue, Helvetica, sans-serif;animation-name: chat;animation-duration: 1s}
+
+@keyframes chat
+{
+	0%{opacity: 0;position: relative;bottom: -300px}
+	50%{opacity: 50;position: relative;bottom: -100px}
+	100%{opacity: 100;}
+
+}
+
+.pop{position: relative;left: 510px;bottom: 80px}
+.person{}
+.msgheading{text-align: center;height: 60px;width: 350px;background-color: blue;color: white;}
+.space{position: relative;top:95px}
+.spacel1{float: left;clear: both;background-color: aqua;margin: 10px;padding: 10px}
+.spacer1{float: right;clear: both;background-color: white;margin: 10px;padding: 10px}
+.spacel2{float: left;clear: both;background-color: aqua;margin: 10px;padding: 10px}
+.spacer2{float: right;clear: both;background-color: white;margin: 10px;padding: 10px}
+.msgbar{width: 296px;height: 30px;text-align: center;display:block;}
+.send{width: 50px;height: 35px;float: left;border-width: 0px;position: relative;bottom: 35px;left: 300px;background-color: aqua}
+.msg{position: relative;top:105px}
+
+.chatimg {height: 100px;width: 100px;position: relative;left: 500px}
+#chatimg{height: 100px;width: 100px;position: relative;left: 500px}
+
+

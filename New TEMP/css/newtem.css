@@ -1,0 +1,23 @@
+body {background-color: black}
+.removef{display: none;}
+.addpro{display: none;}
+.addcat{display: none;}
+.addcon{display: none;}
+.addabo{display: none;}
+.addfin{display: none;}
+
+
+header {height:350px}
+.h1{color: white}
+.navs{float: left;color: yellow;border-right-color: yellow;border-right-width: 1px;border-right-style: solid}
+.navs:visited{color: yellow}
+.navl{border-right-width: 0px}
+.rowone{background-color: black}
+.onerow{background-color: yellow;height: 350px;width: 32%;border-color: black}
+.one{padding-right: 1%;border-color: black;border-right-width: 1%;border-style: solid}
+.two{border-right-width: 1%;border-color: black;border-style: solid}
+.three{padding-left: 1%;border-color:black;border-right-width: 1%;border-style: solid}
+.imgmag:hover{transform: scale(1.2);transition-duration: 2s}
+#fixed {height: 150px;width: 380px;background-color: aqua;color: white;position: fixed;}
+h2{color: white}
+

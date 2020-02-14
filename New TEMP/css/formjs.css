@@ -1,0 +1,5 @@
+*{box-sizing: border-box;padding: 0}
+
+input{height: 30px;width: 300px;position: relative;text-align: center;border-width: 1px;border-style: solid;border-color: aqua}
+form{padding: 15px}
+.button{color: white;background-color: aqua;border-width: 0px;height: 30px;width: 100px;position: relative;margin-left: 150px}

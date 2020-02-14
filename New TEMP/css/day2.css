@@ -1,0 +1,14 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+
+h1,p{text-align: center;margin: 10px 0px;}
+
+.prod_list{text-align: center;cursor: pointer;}
+img{margin:10px;}
+
+.img_original{border:2px solid #222222;transition: all 0.5s;}
+.img_high{transform: scale(1.2);border:5px solid blue;transition: all 0.5s;}
+
+.chatwindow{height:10px;position: fixed;right:10%;top:95%;display: grid;transition: all 0.5s;cursor: pointer;}
+.winclick{position: fixed;right:10%;top:60%;transition: all 0.5s;}
+.chathead{color: white;background-color: black;padding:10px 30px;}
+.chattype{height:500px;background-color:black;border-top: 2px solid white;}
